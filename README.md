@@ -2,7 +2,7 @@
 
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajat499&count_private=true&theme=dracula&show_icons=true&hide_border=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rajat499.rajat499)
+![visitors](https://anirudhakulkarni-visitor-badge.glitch.me/badge?page_id=rajat499.rajat499)
 <!--
 **rajat499/rajat499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
