@@ -1,4 +1,9 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/jaiswal-rajat/" target="_blank">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br />
 
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajat499&count_private=true&theme=dracula&show_icons=true&hide_border=true)
 
